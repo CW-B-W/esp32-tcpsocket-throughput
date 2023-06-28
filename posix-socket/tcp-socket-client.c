@@ -36,9 +36,13 @@ int main(int argc , char *argv[])
 
     // Transfer file
     {
-        long size = 128L * 1024 * 1024;
+        long size = 16L * 1024 * 1024;
         unsigned char buffer[32 * 1024];
         FILE *fp = fopen("./dummy.dat", "rb");
+        if (!fp) {
+            fprintf(stderr, "Failed to open ./dummy.dat\n");
+            exit(1);
+        }
 
         long start, end;
         struct timeval timecheck;
