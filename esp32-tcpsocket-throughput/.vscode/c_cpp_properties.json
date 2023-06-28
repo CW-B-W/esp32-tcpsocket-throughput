@@ -8,10 +8,10 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "/Users/brad/Downloads/esp32-tcpsocket-test/esp32-tcpsocket-test/include",
-                "/Users/brad/Downloads/esp32-tcpsocket-test/esp32-tcpsocket-test/src",
+                "/Users/brad/Downloads/esp32-tcpsocket-throughput/esp32-tcpsocket-throughput/include",
+                "/Users/brad/Downloads/esp32-tcpsocket-throughput/esp32-tcpsocket-throughput/src",
                 "/Users/brad/.platformio/packages/framework-espidf@3.40404.0/components/esp_ringbuf/include",
-                "/Users/brad/Downloads/esp32-tcpsocket-test/esp32-tcpsocket-test/.pio/build/nodemcu-32s/config",
+                "/Users/brad/Downloads/esp32-tcpsocket-throughput/esp32-tcpsocket-throughput/.pio/build/nodemcu-32s/config",
                 "/Users/brad/.platformio/packages/framework-espidf@3.40404.0/components/newlib/platform_include",
                 "/Users/brad/.platformio/packages/framework-espidf@3.40404.0/components/freertos/include",
                 "/Users/brad/.platformio/packages/framework-espidf@3.40404.0/components/freertos/include/esp_additions/freertos",
@@ -167,10 +167,10 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "/Users/brad/Downloads/esp32-tcpsocket-test/esp32-tcpsocket-test/include",
-                    "/Users/brad/Downloads/esp32-tcpsocket-test/esp32-tcpsocket-test/src",
+                    "/Users/brad/Downloads/esp32-tcpsocket-throughput/esp32-tcpsocket-throughput/include",
+                    "/Users/brad/Downloads/esp32-tcpsocket-throughput/esp32-tcpsocket-throughput/src",
                     "/Users/brad/.platformio/packages/framework-espidf@3.40404.0/components/esp_ringbuf/include",
-                    "/Users/brad/Downloads/esp32-tcpsocket-test/esp32-tcpsocket-test/.pio/build/nodemcu-32s/config",
+                    "/Users/brad/Downloads/esp32-tcpsocket-throughput/esp32-tcpsocket-throughput/.pio/build/nodemcu-32s/config",
                     "/Users/brad/.platformio/packages/framework-espidf@3.40404.0/components/newlib/platform_include",
                     "/Users/brad/.platformio/packages/framework-espidf@3.40404.0/components/freertos/include",
                     "/Users/brad/.platformio/packages/framework-espidf@3.40404.0/components/freertos/include/esp_additions/freertos",
